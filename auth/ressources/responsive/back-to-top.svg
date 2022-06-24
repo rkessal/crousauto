@@ -1,0 +1,13 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="300px"
+	 height="300px" viewBox="0 0 300 300" enable-background="new 0 0 300 300" xml:space="preserve">
+<symbol  id="BackToTopNormal_1_" viewBox="-144.067 -146.154 288.135 292.31">
+	<path fill="none" stroke="#A9A9A9" stroke-width="20" d="M0.003-136.154c73.922,0,134.064,61.075,134.064,136.154
+		c0,75.08-60.143,136.155-134.064,136.155c-73.928,0-134.07-61.075-134.07-136.155C-134.067-75.079-73.925-136.154,0.003-136.154
+		L0.003-136.154z M-77.727-29.896L0.003,47.834l77.729-77.729"/>
+</symbol>
+<g id="BackToTopNormal">
+	
+		<use xlink:href="#BackToTopNormal_1_"  width="288.37" height="292.543" x="-144.067" y="-146.154" transform="matrix(1 0 0 -1 150.0674 150.8594)" overflow="visible"/>
+</g>
+
+</svg>
